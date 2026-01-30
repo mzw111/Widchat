@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Widchat
 
 A real-time chat application with video calling capabilities built using the MERN stack and Stream API.
@@ -124,9 +123,4 @@ widchat/
 └── README.md
 ```
 
-## License
 
-ISC
-=======
-# Widchat
->>>>>>> b52308261adbf7c8ecd9f14127a6a9cd63a48e99
